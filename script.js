@@ -17,3 +17,4 @@ var x = setInterval(function() {
         document.getElementById("countdown").innerHTML = "Launched!";
     }
 }, 1000);
+console.log("Welcome to Space With Raja 🚀");
