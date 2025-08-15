@@ -1,0 +1,51 @@
+css
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black url('https://www.nasa.gov/sites/default/files/thumbnails/image/potw2046a.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+header {
+    padding: 50px 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+header h1 {
+    font-size: 3em;
+    color: #00ffe0;
+    text-shadow: 0 0 20px #00ffe0;
+}
+header p {
+    font-size: 1.2em;
+    color: #ccc;
+}
+section {
+    padding: 50px 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 10px;
+}
+h2 {
+    color: #ffcc00;
+    text-shadow: 0 0 10px #ffcc00;
+}
+#countdown {
+    font-size: 2em;
+    margin-top: 20px;
+    color: #00ff88;
+    text-shadow: 0 0 10px #00ff88;
+}
+img.gallery {
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+footer {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    font-size: 0.9em;
+    color: #aaa;
+}
+```
